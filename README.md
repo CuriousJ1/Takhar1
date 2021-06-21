@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JJ
-- 👀 I’m interested in 
+- 👀 I’m a novice programmer
 - 🌱 I’m currently learning Python, Flask, Django, Blockchain and Data Science
 - 💞️ I’m looking to collaborate on Algorithmic trading models and Crypto Index Funds
 - 📫 Reach out to me via Linkedin
