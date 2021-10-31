@@ -1,7 +1,7 @@
 - 👋 Hi, I’m JJ
-- 👀 I’m a Python programmer and Financial Analyst
-- 🌱 I’m currently learning Flask and Data science and Machine Learning
-- 💞️ I’m looking to collaborate on Algorithmic trading models and Index Funds
+- 👀 I love Programming and Finance
+- 🌱 I’m currently learning Database Systems, Machine Learning, Flask and Blockchain Programming
+- 💞️ I’m looking to collaborate on projects that intersect Psychology, Finance and Programming
 - 📫 Reach out to me via Linkedin
 
 <!---
