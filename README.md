@@ -1,8 +1,8 @@
-- 👋 Hi, I’m JJ
-- 👀 I'm fascintated by Computer Science and Finance
-- 🌱 I’m currently learning Advanced Python, Database Systems, Flask, Machine Learning and Blockchain Programming
-- 💞️ I’m looking to collaborate on projects that intersect Psychology, Finance and Computer Science
-- 📫 Reach out to me via Linkedin
+- 👋 Hi, I’m JJ.
+- 👀 I'm fascintated by the application of Computer Science on Finance and behaviour.
+- 🌱 I’m currently learning Advanced Python, Database Systems, Flask, Machine Learning and Blockchain Programming.
+- 💞️ I’m looking to collaborate on projects that intersect Psychology, Finance and Computer Science.
+- 📫 Reach out to me via Linkedin.
 
 <!---
 Takhar1/Takhar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
