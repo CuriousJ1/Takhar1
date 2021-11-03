@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JJ
 - 👀 I fascintated by Computer Science and Finance
-- 🌱 I’m currently learning Database Systems, Flask, Machine Learning and Blockchain Programming
+- 🌱 I’m currently learning Advanced Python, Database Systems, Flask, Machine Learning and Blockchain Programming
 - 💞️ I’m looking to collaborate on projects that intersect Psychology, Finance and Computer Science
 - 📫 Reach out to me via Linkedin
 
