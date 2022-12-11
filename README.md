@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JJ.
 - 👀 I'm fascintated by the application of Computer Science on Finance and Psychology.
-- 🌱 I’m currently learning Database Systems, Web Developement and Machine Learning.
+- 🌱 I’m currently learning Machine Learning, Data Engineering and Solidity.
 - 💞️ I’m looking to collaborate on projects that intersect Psychology, Finance and Computer Science.
 - 📫 Reach out to me via Linkedin.
 
