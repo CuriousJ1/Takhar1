@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JJ.
+- 👋 Hi, I’m CuriousJ.
 - 👀 I'm fascintated by the application of Computer Science on Finance and Psychology.
 - 🌱 I’m currently learning Machine Learning, Data Engineering and Solidity.
 - 💞️ I’m looking to collaborate on projects that intersect Psychology, Finance and Computer Science.
