@@ -1,7 +1,6 @@
-- 👋 Hi, I’m CuriousJ.
+- 👋 Hi, I’m J.
 - 👀 I'm fascintated by the application of Computer Science on Finance and Psychology.
-- 🌱 I’m currently learning Machine Learning, Data Engineering and Solidity.
-- 💞️ I’m looking to collaborate on projects that intersect Psychology, Finance and Computer Science.
+- 🌱 I’m currently learning everything concerning Financial Engineering.
 - 🤓 Check out my [Codewars]([url](https://www.codewars.com/users/Takhar/stats)) and [Numerai]([url](https://numer.ai/tournament)) 
 - 📫 Reach out to me via [Linkedin]([url](https://www.linkedin.com/in/jj-takhar-51a9a7b2/)).
 
