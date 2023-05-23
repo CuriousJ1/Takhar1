@@ -1,4 +1,4 @@
-- 👋 Hi, I’m J.
+- 👋 Hi, I’m JJ.
 - 👀 I'm fascintated by the application of Computer Science on Finance and Psychology.
 - 🌱 I’m currently learning everything concerning Financial Engineering.
 - 🤓 Check out my [Codewars]([url](https://www.codewars.com/users/Takhar/stats)) and [Numerai]([url](https://numer.ai/tournament)) 
